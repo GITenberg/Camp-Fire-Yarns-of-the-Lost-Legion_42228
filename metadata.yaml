@@ -1,0 +1,28 @@
+_repo: Camp-Fire-Yarns-of-the-Lost-Legion_42228
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42228-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hamilton-Browne, G.
+    alias: Hamilton-Browne, George
+    gutenberg_agent_id: '41584'
+    url: http://www.gutenberg.org/2009/agents/41584
+description: ''
+gutenberg_issued: '2013-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42228'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Maori (New Zealand people) -- Warfare'
+- !lcc 'DU'
+- !lcc 'DT'
+- !lcsh 'New Zealand -- History -- Anecdotes'
+- !lcsh 'Zulu War, 1879'
+title: Camp Fire Yarns of the Lost Legion
+url: http://www.gutenberg.org/ebooks/42228
